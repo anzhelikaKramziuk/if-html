@@ -7,7 +7,7 @@ body {
 }
 .section {
   box-sizing: border-box;
-  max-width: 100%;
+  width: 1440px;
   height: 569px;
 }
 .line {
