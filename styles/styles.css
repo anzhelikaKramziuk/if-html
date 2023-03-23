@@ -7,14 +7,14 @@ body {
 }
 .section {
   box-sizing: border-box;
-  width: 1440px;
+  width: 100%;
   height: 569px;
 }
 .line {
   box-sizing: border-box;
   width: 100px;
   height: 4px;
-  margin: 20px 670px 88px 670px;
+  margin: 20px auto 88px auto;
   align-items: center;
   background-color: #f5bd41;
   border: none;
@@ -27,7 +27,7 @@ body {
   box-sizing: border-box;
   color: #383838;
   text-align: center;
-  margin: 120px 567px 20px 567px;
+  margin: 120px auto 20px auto;
 }
 
 .block-img {
